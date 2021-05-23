@@ -1,4 +1,4 @@
-# CS-135-Discrete_Structures-
+# CS-135-Discrete_Structures
 Stevens Institute of Technology Discrete Structures class
 
 ## Description 
